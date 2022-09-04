@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.27.1",
+    "cypress": "^10.7.0"    
+  },
+  "scripts": {
+    "e2e": "node_modules/bin/cypress open"
+  }
+}
